@@ -8,10 +8,12 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 # Installation:
 This project requires python 3.x and the following libraries:
 - Pandas
+- Seaborn
+- matplotlib
 - Scipy
 - NearestNeighbors
 - fuzzywuzzy
-You will also need to have software installed to run and execute an iPython Notebook
+- You will also need to have software installed to run and execute an iPython Notebook
 
 We recommend students install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
